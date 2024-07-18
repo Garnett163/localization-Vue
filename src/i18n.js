@@ -14,7 +14,7 @@ i18next
     resources: {
       en: {
         translation: {
-          title: 'Hell, IDIOT',
+          title: 'Hello',
           welcome: 'Welcome to Your Vue.js App',
           descr:
             'For a guide and recipes on how to configure / customize ' +
@@ -25,7 +25,7 @@ i18next
       },
       de: {
         translation: {
-          title: 'Hallo, Idiot',
+          title: 'Hallo GERMAN',
           welcome: 'Willkommen zu Deiner Vue.js App',
           descr:
             'Eine Anleitung und Rezepte zum Konfigurieren/Anpassen ' +
@@ -36,7 +36,7 @@ i18next
       },
       ru: {
         translation: {
-          title: 'Привет, Тупица',
+          title: 'Привет',
           welcome: 'Добро пожаловать в Vue.js App',
           descr:
             'Руководство и рецепты для настройки/настраивания ' +
